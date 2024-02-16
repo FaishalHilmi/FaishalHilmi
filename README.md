@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello Everyone 👋
+
+My name is **Faishal Hilmy Fadhilah Ginting**, you can call me **Faishal**.<br>
+
+I am a passionate student whose interest is in the world of Technology. My skills in building websites have been honed for approximately 2 years, during which I have accumulated valuable experience as a Front-End Developer. I am always eager to continue developing my skills and exploring the latest innovations in the world of technology.
+
+Connect and follow my social media pages to stay updated on my journey!<br>
+[Instagram](https://www.instagram.com/faisalmii/) : @faisalmii<br>
+[Linkedin](https://www.linkedin.com/in/faishalhilmyfad/) : Faishal Hilmy Fadhilah Ginting
+
 
 <!--
 **FaishalHilmi/FaishalHilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
