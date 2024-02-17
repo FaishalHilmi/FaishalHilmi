@@ -8,6 +8,14 @@ Connect and follow my social media pages to stay updated on my journey!<br>
 [Instagram](https://www.instagram.com/faisalmii/) : @faisalmii<br>
 [Linkedin](https://www.linkedin.com/in/faishalhilmyfad/) : Faishal Hilmy Fadhilah Ginting
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/FaishalHilmi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 
 <!--
 **FaishalHilmi/FaishalHilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
